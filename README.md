@@ -1,4 +1,4 @@
-# Asian Kitchen with JavaScript
+# Asian Kitchen's Menu with JavaScript
 
 In this project, I have focussed to use JavaScript to make practice and tried to implement my learning outcomes. 
 
