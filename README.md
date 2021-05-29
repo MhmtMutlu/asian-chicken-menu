@@ -8,4 +8,3 @@ In this project, I have focussed to use JavaScript to make practice and tried to
 
 ![Proje Resmi](img/screenshot1.png)
 
-![Proje Resmi](img/screenshot2.png)
